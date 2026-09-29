@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+button {
+    margin: 4px;
+    padding: 8px;
+    cursor: pointer;
+ }
+ 
+#caixa {
+    padding: 15px;
+    border: 1px solid  rgb(227, 228, 224);
+    border-radius: 6px;
+    margin-top: 10px;
+} 
+
+.Destaque {
+    background-color: rgb(154, 199, 201);
+    font-weight: bold;
+}
